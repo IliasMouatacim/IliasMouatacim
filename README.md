@@ -78,3 +78,7 @@ A short one-liner on what it does and why it matters.
 - Portfolio: https://your-portfolio.com
 - X: https://x.com/your-handle
 - Email: your.email@example.com
+
+---
+
+Last updated: March 16, 2026
