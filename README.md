@@ -32,10 +32,38 @@ const ilias = {
   role      : "Master student — Computer Products & Services Engineering",
   location  : "Montbéliard, France 🇫🇷",
   focus     : ["Full-Stack Web", "3D Browser Experiences", "Real-Time Apps"],
+  background: ["Software Engineering", "Cybersecurity", "Web Development"],
   currently : "Building ambitious things at the intersection of UX and systems",
   philosophy: "Ship fast, iterate hard, never cut corners on architecture.",
 };
 ```
+
+---
+
+## ◈ Experience Snapshot
+
+- **Information Systems Security Intern — IGOUVERNANCIA** (Jun 2024 to Aug 2024)
+  - Followed up vulnerability findings from penetration tests (XSS, CSRF, SQLi)
+  - Contributed to re-audits and reporting aligned with OWASP recommendations
+  - Worked with Kali Linux, Nmap, and Wireshark in security analysis workflows
+
+- **Software Development Intern — SODELKA** (May 2024 to Jun 2024)
+  - Built internal scripts and tools to improve business processes
+  - Automated repetitive tasks using Python and JavaScript
+  - Maintained existing codebases and collaborated on testing and deployment
+
+- **Web Development and SEO Intern — MARKA SOLUTION** (Jul 2023 to Aug 2023)
+  - Implemented frontend features with HTML, CSS, and JavaScript
+  - Improved technical and semantic SEO using Analytics and Search Console
+  - Participated in bug fixing, UX improvements, and technical documentation
+
+---
+
+## ◈ Education
+
+- **Master 1, Produits et Services Multimédia** (2025 to 2026) — UFR STGI, Montbéliard
+- **Bachelor 3, Cybersecurity and Network** (2024 to 2025) — École Centrale d'Électronique, Paris
+- **BTS, Développement des Systèmes d'Information** (2022 to 2024) — Paris
 
 ---
 
@@ -62,6 +90,21 @@ const ilias = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
+
+---
+
+## ◈ Certifications and Languages
+
+- **IBM and ISC2 Cybersecurity Specialist**
+- **Cisco Networking Devices and Initial Configuration**
+- **SecNumacadémie ANSSI (MOOC)**
+- **EF SET English Certificate — C2 Proficient**
+- **TCF French — C2**
+
+- Languages:
+  - French (C2)
+  - English (C2)
+  - Arabic (Native)
 
 ---
 
