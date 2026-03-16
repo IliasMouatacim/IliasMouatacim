@@ -106,8 +106,8 @@
 - **IBM and ISC2 Cybersecurity Specialist**
 - **Cisco Networking Devices and Initial Configuration**
 - **SecNumacadémie ANSSI (MOOC)**
-- **EF SET English Certificate — C2 Proficient**
-- **TCF French — C2**
+- **EF SET English Certificate  C2 Proficient**
+- **TCF French  C2**
 
 - Languages:
   - French (C2)
@@ -207,13 +207,12 @@
 
 <div align="center">
 
-If you're working on something interesting — a product, a side project, or an open-source tool — I'm always open to collaborating.
+If you're working on something interesting, a product, a side project, or an open-source tool. I'm always open to collaborating.
 
 **→** [ilias.mouatacim@gmail.com](mailto:ilias.mouatacim@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/ilias-mouatacim-9618b125b/) &nbsp;|&nbsp; [Portfolio](https://portfolio-lovat-iota-18.vercel.app)
 
 <br/>
 
-![visitors](https://visitor-badge.lister.com/badge?page_id=IliasMouatacim.IliasMouatacim)
 
 </div>
 
