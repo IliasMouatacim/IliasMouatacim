@@ -13,8 +13,6 @@
 
 **`Full-Stack Engineer · 3D Web · Real-Time Systems`**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Master+student+in+CS+%40+Montbéliard%2C+France;Building+full-stack+apps+%26+3D+browser+experiences;React+%7C+Next.js+%7C+Node.js+%7C+Three.js+%7C+WebRTC;Turning+ideas+into+real%2C+user-focused+products" alt="Typing SVG" />
-
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilias-mouatacim-9618b125b/)
