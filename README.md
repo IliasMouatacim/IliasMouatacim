@@ -122,7 +122,7 @@
 <tr>
 <td width="50%">
 
-### 🧱 [Cube-Crafter](https://github.com/IliasMouatacim/Cube-Crafter)
+### [Cube-Crafter](https://github.com/IliasMouatacim/Cube-Crafter)
 > Minecraft-like **3D voxel sandbox** running entirely in the browser.
 
 - Procedurally generated terrain with biomes
@@ -135,7 +135,7 @@
 </td>
 <td width="50%">
 
-### 💰 [Personal Finance Tracker](https://github.com/IliasMouatacim/personal-finance-tracker)
+### [Personal Finance Tracker](https://github.com/IliasMouatacim/personal-finance-tracker)
 > A full-stack **finance management** app for real-life budgeting.
 
 - Expense & income tracking with categories
@@ -150,7 +150,7 @@
 <tr>
 <td width="50%">
 
-### ☁️ [Cloud IDE](https://github.com/IliasMouatacim/cloud-ide)
+### [Cloud IDE](https://github.com/IliasMouatacim/cloud-ide)
 > A **browser-based coding workspace** focused on developer productivity.
 
 - Code editor running fully in the cloud
@@ -162,7 +162,7 @@
 </td>
 <td width="50%">
 
-### 💬 [Chatting App](https://github.com/IliasMouatacim/chattingapp)
+### [Chatting App](https://github.com/IliasMouatacim/chattingapp)
 > Real-time **messaging application** with live communication.
 
 - Instant messaging with WebSocket
