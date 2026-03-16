@@ -27,16 +27,12 @@
 
 ## ◈ About Me
 
-```ts
-const ilias = {
-  role      : "Master's student — Computer Products and Services Engineering",
-  location  : "Montbéliard, France 🇫🇷",
-  focus     : ["Full-Stack Web", "3D Browser Experiences", "Real-Time Apps"],
-  background: ["Software Engineering", "Cybersecurity", "Web Development"],
-  currently : "Building ambitious things at the intersection of UX and systems",
-  philosophy: "Ship fast, iterate hard, never cut corners on architecture.",
-};
-```
+- Role: Master's student in Computer Products and Services Engineering
+- Location: Montbeliard, France
+- Focus: Full-stack web, 3D browser experiences, real-time applications
+- Background: Software engineering, cybersecurity, web development
+- Current goal: Building ambitious projects at the intersection of UX and systems
+- Philosophy: Ship fast, iterate hard, never cut corners on architecture
 
 ---
 
