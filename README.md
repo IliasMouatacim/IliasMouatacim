@@ -40,33 +40,6 @@ const ilias = {
 
 ---
 
-## ◈ Experience Snapshot
-
-- **Information Systems Security Intern — IGOUVERNANCIA** (Jun 2024 to Aug 2024)
-  - Followed up vulnerability findings from penetration tests (XSS, CSRF, SQLi)
-  - Contributed to re-audits and reporting aligned with OWASP recommendations
-  - Worked with Kali Linux, Nmap, and Wireshark in security analysis workflows
-
-- **Software Development Intern — SODELKA** (May 2024 to Jun 2024)
-  - Built internal scripts and tools to improve business processes
-  - Automated repetitive tasks using Python and JavaScript
-  - Maintained existing codebases and collaborated on testing and deployment
-
-- **Web Development and SEO Intern — MARKA SOLUTION** (Jul 2023 to Aug 2023)
-  - Implemented frontend features with HTML, CSS, and JavaScript
-  - Improved technical and semantic SEO using Analytics and Search Console
-  - Participated in bug fixing, UX improvements, and technical documentation
-
----
-
-## ◈ Education
-
-- **Master 1, Produits et Services Multimédia** (2025 to 2026) — UFR STGI, Montbéliard
-- **Bachelor 3, Cybersecurity and Network** (2024 to 2025) — École Centrale d'Électronique, Paris
-- **BTS, Développement des Systèmes d'Information** (2022 to 2024) — Paris
-
----
-
 ## ◈ Tech Stack
 
 <div align="center">
