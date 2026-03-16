@@ -29,7 +29,7 @@
 
 ```ts
 const ilias = {
-  role      : "Master student — Computer Products & Services Engineering",
+  role      : "Master's student — Computer Products and Services Engineering",
   location  : "Montbéliard, France 🇫🇷",
   focus     : ["Full-Stack Web", "3D Browser Experiences", "Real-Time Apps"],
   background: ["Software Engineering", "Cybersecurity", "Web Development"],
